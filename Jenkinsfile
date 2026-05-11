@@ -1,4 +1,4 @@
-pluggin{
+pipeline{
 
 	agent any
 
